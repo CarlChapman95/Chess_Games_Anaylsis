@@ -74,4 +74,9 @@ This notebook includes:
 - Higher-rated players tend to play longer, more complex games
 - Certain openings are strongly associated with player skill
 - Casual (non-rated) games are more common than rated games
+
+---
+
+## Author
+Carl L Chapman - Data Analyst
  
