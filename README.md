@@ -5,6 +5,10 @@ This project analyzes a dataset of over 20,000 chess games. It demonstrates data
 
 ---
 
+## How to Run
+- Clone this Repository
+- Note: All Dependencies are managed through 'requirements.txt'
+
 ## Dataset
 - **File:** `games.csv`
 - **Source:** [Online chess game records](https://www.kaggle.com/datasets/datasnaek/chess)
